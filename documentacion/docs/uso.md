@@ -19,19 +19,15 @@
 
 === "Crear cita"
 
-    ````
     ```http
     POST /api/appointments
     ```
-    ````
 
 === "Consultar disponibilidad"
 
-    ````
     ```http
     GET /api/barbers/availability
     ```
-    ````
 
 ## Imagen del flujo
 
