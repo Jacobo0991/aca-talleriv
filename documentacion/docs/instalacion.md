@@ -1,7 +1,7 @@
 # Instalación
 
 !!! warning
-Asegúrate de tener Docker y Docker Compose instalados antes de comenzar.
+    gAsegúrate de tener Docker y Docker Compose instalados antes de comenzar.
 
 ## Requisitos
 

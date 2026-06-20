@@ -34,4 +34,4 @@
 ![Flujo del sistema](img/flujo.png)
 
 !!! tip
-Se recomienda habilitar notificaciones para recordar las citas programadas.
+    Se recomienda habilitar notificaciones para recordar las citas programadas.
