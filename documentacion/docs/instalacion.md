@@ -14,8 +14,8 @@ Asegúrate de tener Docker y Docker Compose instalados antes de comenzar.
 ## Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/barber-booking.git
-cd barber-booking
+git clone https://github.com/jacobo0991/nextcut.git
+cd nextcut
 ```
 
 ## Iniciar los servicios
