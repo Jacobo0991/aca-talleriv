@@ -1,0 +1,31 @@
+site_name: Sistema de Reservas para Barberías
+
+theme:
+  name: material
+  palette:
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: pink
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: pink
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Inicio: index.md
+  - Instalación: instalacion.md
+  - Casos de Uso: uso.md
+plugins:
+    - search
+    - git-revision-date-localized:
+        fallback_to_build_date: false
+        locale: es
+        type: date
